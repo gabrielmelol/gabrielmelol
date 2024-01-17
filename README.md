@@ -9,7 +9,9 @@
 
 
 ## :computer: Áreas de Interesse
+* BlockChain (Web 3)
 * Machine Learning
+* AI 
 * Data Science
 * Frontend and Backend Web Development
 
@@ -48,7 +50,7 @@
  ```
  
 ## Ocupação Atual
- * One Oracle Next Education: Frontend and Backend development + Softskills learning
+ * One Oracle Next Education: Frontend and Backend development learning + Softskills learning
 
 * Udemy course: Learning Python 3 from basics to advanced
  
