@@ -1,4 +1,4 @@
-## Olá! eu sou Gabriel Melo, estudante de programação e fascinado por tecnologia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Olá! eu sou Gabriel Melo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Seja bem-vindo à minha página do Github..</h1> 
 
