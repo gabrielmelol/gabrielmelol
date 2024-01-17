@@ -16,7 +16,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelol&layout=compact">
 
 ## Linguagens de Programação
-<img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/html.svg' width='30'/> <img src='https://github.com/gabrielmelol/gabrielmelol/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/js.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/html.svg' width='30'/> <img src='https://github.com/gabrielmelol/gabrielmelol/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/js.svg' width='30'/>
  <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/sql.svg' width='30'/> 
  
  ## Quem sou eu?
@@ -43,12 +43,9 @@
  ```
  
 ## Ocupação Atual
- * One Oracle Next Education
--Frontend and Backend development learning<li>
--Softskills learning<li><ul>
+ * One Oracle Next Education: Frontend and Backend development + Softskills learning
 
-* Udemy course
-- Learning Python 3 from basics to advanced
+* Udemy course: Learning Python 3 from basics to advanced
  
 ## 
 
