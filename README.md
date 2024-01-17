@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-melo-7753242a4/)](https://www.linkedin.com/in/gabriel-melo-7753242a4/) [![Gmail Badge](https://img.shields.io/badge/-gabriel.wlmelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.wlmelo@gmail.com)](mailto:gabriel.wlmelo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielMelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-melo-7753242a4/)](https://www.linkedin.com/in/gabriel-melo-7753242a4/) [![Gmail Badge](https://img.shields.io/badge/-gabriel.wlmelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.wlmelo@gmail.com)](mailto:gabriel.wlmelo@gmail.com)
 
 
 
@@ -44,10 +44,11 @@
  
 ## Ocupação Atual
  * One Oracle Next Education
- <ul><li>Frontend and Backend development learning<li>
- <li>Softskills learning<li><ul>
+-Frontend and Backend development learning<li>
+-Softskills learning<li><ul>
 
- * Learning Python 3 from basics to advanced, a Udemy course
+* Udemy course
+- Learning Python 3 from basics to advanced
  
 ## 
 
