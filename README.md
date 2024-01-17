@@ -4,6 +4,7 @@
 
 <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
+<a href = "mailto:gabriel.wlmelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielMelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-melo-7753242a4/)](https://www.linkedin.com/in/gabriel-melo-7753242a4/) [![Gmail Badge](https://img.shields.io/badge/-gabriel.wlmelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.wlmelo@gmail.com)](mailto:gabriel.wlmelo@gmail.com)
 
 
