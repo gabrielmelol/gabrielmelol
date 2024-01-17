@@ -9,7 +9,7 @@
 
 
 ## :computer: Áreas de Interesse
-* BlockChain (Web 3)
+* Blockchain (Web 3)
 * Machine Learning
 * AI 
 * Data Science
