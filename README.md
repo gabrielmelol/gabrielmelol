@@ -45,7 +45,7 @@
 		BeTheBestDev()
 		BeAnExemple()
 		BeSucessful()
-		# Assume 10 more awesome ambitions here  ;)
+		# and many other ambitions ;) 
 	
  ```
  
