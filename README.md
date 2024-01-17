@@ -1,6 +1,6 @@
-## Oi! eu sou o Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<h1> Oi! eu sou o Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h1>
 
-<h1>Seja bem-vindo à minha página do Github..</h1> 
+## Seja bem-vindo à minha página do Github..
 
 <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
