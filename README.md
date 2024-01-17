@@ -15,9 +15,13 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelol&layout=compact">
 
-## Linguagens de Programação
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/html.svg' width='30'/> <img src='https://github.com/gabrielmelol/gabrielmelol/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/js.svg' width='30'/>
- <img src = 'https://github.com/gabrielmelol/gabrielmelol/blob/master/images/sql.svg' width='30'/> 
+## Skills
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
  
  ## Quem sou eu?
  ```python
