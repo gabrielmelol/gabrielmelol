@@ -1,4 +1,4 @@
-## Olá! eu sou o Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Oi! eu sou o Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Seja bem-vindo à minha página do Github..</h1> 
 
